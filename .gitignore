@@ -1,5 +1,11 @@
-﻿venv/
+venv/
 data/
 __pycache__/
 *.pyc
 .env
+node_modules/
+.claude/
+*.docx
+generate_report.js
+package.json
+package-lock.json
